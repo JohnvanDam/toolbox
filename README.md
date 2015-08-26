@@ -1,2 +1,5 @@
 # toolbox
-Small scripts to automate simple bioinformatics tasks
+A collection of small scripts to automate simple bioinformatics tasks.
+I.e:
+- Conversion of sequence formats
+- ...
